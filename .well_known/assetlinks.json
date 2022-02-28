@@ -1,0 +1,9 @@
+[{
+"relation": ["delegate_permission/common.handle_all_urls"],
+"target": {
+"namespace": "android_app",
+"package_name": "com.orgname.GoogleSheets",
+"sha256_cert_fingerprints":
+["9D:BF:7C:FA:53:F9:EA:05:3A:43:DF:08:AC:9B:16:D0:B4:7C:C0:4B:DD:3D:48:38:A4:CD:02:08:D3:98:42:F4"]
+}
+}]
